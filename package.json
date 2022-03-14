@@ -1,0 +1,29 @@
+{
+  "name": "random-messages-ckstg",
+  "version": "1.1.0",
+  "description": "Shows random quotes from Harry Potter",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "package",
+    "node",
+    "javascript"
+  ],
+  "author": "cstgarcia <ckstgarcia@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "random-msg-ckstg": "bin/global.js"
+  },
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cstgarcia1204/npm-random-messages-ckstg.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cstgarcia1204/npm-random-messages-ckstg/issues"
+  },
+  "homepage": "https://github.com/cstgarcia1204/npm-random-messages-ckstg#readme"
+}
