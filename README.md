@@ -5,7 +5,7 @@ Shows random quotes from Harry Potter (=
 ## Install
 
 ```npm
-npm install -g random-msg-ckstg
+npm i -g random-messages-ckstg
 ```
 
 # Usage
